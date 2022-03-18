@@ -1,7 +1,7 @@
 # Projet-JavaWeb
 # 1 Principe
 
-On souhaite r´ealiser un projet fil rouge qui devra etre amélioré au fur et à mesure
+On souhaite réaliser un projet fil rouge qui devra etre amélioré au fur et à mesure
 de l’avancée du cours.
 
 # 2 Objectif
