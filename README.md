@@ -9,7 +9,7 @@ de l’avancée du cours.
 On veut réaliser un jeu de role en ligne. Le principe est de créer des personnages
 ayant des caractéristiques puis d’établir une règle de calcul pour les combats.
 
-# 3 Cr´eation de personnage
+# 3 Création de personnage
 Il faudra tout d’abord demande a l’utilisateur de créer un personnage et de ”choisir”
 des caractéristiques.
 
